@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Categories">
+            <menu>
+                <item
+                    android:id="@+id/grocery_or_supermarket"
+                    android:icon="@drawable/bluecircle"
+                    android:title="grocery" />
+                <item
+                    android:id="@+id/bakery"
+                    android:icon="@drawable/bluecircle"
+                    android:title="bakery" />
+                <item
+                    android:id="@+id/clothing_store"
+                    android:icon="@drawable/bluecircle"
+                    android:title="clothing_store" />
+
+                <item
+                    android:id="@+id/pharmacy"
+                    android:icon="@drawable/bluecircle"
+                    android:title="pharmacy" />
+
+                <item
+                    android:id="@+id/doctor"
+                    android:icon="@drawable/bluecircle"
+                    android:title="Doctor" />
+                <item
+                    android:id="@+id/shopping_mall"
+                    android:icon="@drawable/bluecircle"
+                    android:title="shopping_mall" />
+                <item
+                    android:id="@+id/electronics_store"
+                    android:icon="@drawable/bluecircle"
+                    android:title="electronics_store" />
+                <item
+                    android:id="@+id/atm"
+                    android:icon="@drawable/bluecircle"
+                    android:title="atm" />
+
+                <item
+                    android:id="@+id/bank"
+                    android:icon="@drawable/bluecircle"
+                    android:title="bank" />
+                <item
+                    android:id="@+id/restaurant"
+                    android:icon="@drawable/bluecircle"
+                    android:title="Restaurant" />
+            </menu>
+        </item>
+
+
+
+    </group>
+
+
+
+
+</menu>

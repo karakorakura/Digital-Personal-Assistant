@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_signout"
+        android:icon="@mipmap/logout"
+        android:title="Signout" />
+
+
+
+    <item android:id="@+id/menu_deleteaccount"
+        android:icon="@mipmap/delete_account"
+        android:title="Delete account" />
+
+    <item
+        android:id="@+id/add"
+        android:title="ADD"
+        app:showAsAction="always"
+        android:icon="@mipmap/add"
+
+        />
+
+
+</menu>

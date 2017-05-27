@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "748854015567",
+    "firebase_url": "https://digital-personal-assistant.firebaseio.com",
+    "project_id": "digital-personal-assistant",
+    "storage_bucket": "digital-personal-assistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748854015567:android:a731ec1613b6febf",
+        "android_client_info": {
+          "package_name": "com.android.dpa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748854015567-8u3pami8ael4m397062rp0r1ce879m1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zRLDYw--RHh4AWg2buAYFYj3_zK5edo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
